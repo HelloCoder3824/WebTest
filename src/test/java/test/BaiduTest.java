@@ -35,6 +35,7 @@ public class BaiduTest {
     public void LoginStript(String url ) throws Exception {
         driver.get(url);
         driver.manage().window().maximize();
+		Theead.sleep(20000;
 
 
     }
